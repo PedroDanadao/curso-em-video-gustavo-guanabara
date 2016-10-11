@@ -213,6 +213,9 @@ aside#lateral h2{
 	color: #ffffff;
 	padding: 5px;
 }
+video#video_lateral{
+	width: 350px;
+}
 
 /* Formatação do rodape */
 footer#rodape{
